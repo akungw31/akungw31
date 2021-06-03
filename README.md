@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akungw31
+- 👋 Hi, I’m erwin.
 - 👀 I’m interested in frontend developer in website
 - 🌱 I’m currently learning Javascript, Bootstrap.
 - 💞️ I’m looking to collaborate on redesigning web
